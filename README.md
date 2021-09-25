@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Suryansh-G
+- 👀 I’m interested in Quant Finance, Statistics, Machine Learning, Time Series
+- 🌱 I’m currently learning ML, DL, Stats
+- 📫 Reach me on suryanshgarg@iisc.ac.in
